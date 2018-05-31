@@ -1,5 +1,6 @@
 function shout (string) {return string.toUpperCase()}
 function whisper (string) {return string.toLowerCase()}
+<<<<<<< HEAD
 function logShout(string){console.log(string.toUpperCase());}
 function logWhisper(string){console.log(string.toLowerCase());}
 function sayHiToGrandma(string){
@@ -14,3 +15,6 @@ return ('YES INDEED!');
 else{
 var mixedCase = 'I love you, too.';
 return(mixedCase);}}
+=======
+function logShout(string){console.log(string.toUpperCase());}
+>>>>>>> 0e1508034f5f5f1110ca76443a99ed0335e8f8fc
